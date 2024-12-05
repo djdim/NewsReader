@@ -1,0 +1,42 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# OS-specific files
+Thumbs.db
+.idea/misc.xml
+.idea/modules.xml.lock
+
+# Logs
+*.log
+
+# APKs
+*.apk
+*.ap_
+
+# Crashlytics and Fabric
+/crashlytics
+/fabric
+
+# Keys and secrets
+*.keystore
+google-services.json
+google-services.xml
+
+# Gradle wrapper (optional)
+/gradle-wrapper.jar
+
+# Temp directories
+/tmp/
